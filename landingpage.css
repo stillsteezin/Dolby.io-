@@ -1,0 +1,28 @@
+<div class="relative bg-gray-800" style="width: 1920px; height: 1080px;">
+    <div class="inline-flex space-x-96 items-end justify-end pl-56 pr-96 pt-16 pb-6 absolute left-0 top-0 bg-black bg-opacity-25" style="width: 1920px; height: 188px;">
+        <p class="text-5xl text-white" style="width: 456px; height: 96px;">School2.0</p>
+        <p class="w-1/4 h-24 text-5xl text-white">Learn more</p>
+    </div>
+    <div class="absolute right-0 bottom-0 bg-purple-200 bg-opacity-20 rounded-full" style="width: 554px; height: 539px;"/>
+    <p class="absolute text-6xl text-white" style="width: 877px; height: 338px; left: 528px; top: 378px;">Video conferencing made easy</p>
+    <div class="w-96 h-80 absolute bg-purple-200 bg-opacity-25 rounded-full" style="left: 19px; top: 730px;"/>
+    <p class="absolute text-5xl text-white" style="width: 932px; height: 292px; left: 538px; top: 590px;">An interactive environment build to engage</p>
+    <div class="inline-flex items-end justify-center w-80 h-40 pt-6 absolute bg-blue-800 rounded-lg" style="left: 780px; top: 816px;">
+        <p class="flex-1 h-full text-6xl text-center text-white">Join now</p>
+    </div>
+    <p class="w-80 h-24 absolute text-5xl text-white" style="left: 1632px; top: 63px;">Log In</p>
+    <div class="inline-flex flex-col space-y-5 items-start justify-start w-56 h-52 absolute" style="left: 19px; top: 5px;">
+        <div class="transform -rotate-90 w-1/5 h-1.5 border-4 border-white"/>
+        <div class="transform -rotate-90 w-1/5 h-1.5 border-4 border-white"/>
+        <div class="transform -rotate-90 w-8 h-1 border-4 rounded-2xl border-white">
+            <div class="transform -rotate-90 w-8 h-1 border-4 border-white"/>
+        </div>
+        <div class="transform -rotate-90 w-8 h-1 bg-white border-4 border-white"/>
+        <div class="transform rotate-90 w-5 h-1 border-4 border-white"/>
+        <div class="transform -rotate-90 w-5 h-1 border-4 border-white"/>
+        <div class="transform -rotate-90 w-8 h-1 border-4 border-white"/>
+        <div class="inline-flex items-start justify-center w-full flex-1 px-12 pt-12 pb-14 bg-black bg-opacity-0">
+            <div class="flex-1 h-full bg-black bg-opacity-0 border-4 rounded-full"/>
+        </div>
+    </div>
+</div>
